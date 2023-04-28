@@ -44,7 +44,7 @@ Hey there, I'm a self-taught Junior Programmer with expertise in JavaScript, CSS
 
 
 <h2> Stuff I worked on  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/NilArj?tab=repositories">Projects
+<a href="https://github.com/NilArj/Projects-overview/blob/main/README.md">Projects summary table
 </a>
 <br>
 
