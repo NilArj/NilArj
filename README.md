@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-Hey there, I'm a self-taught Junior Programmer with expertise in JavaScript, CSS, HTML, ReactJS, and React Native. I'm passionate about building user-friendly, scalable applications and I'm always eager to learn new things.
+Hey there, I'm a self-taught Junior Data Analyst with expertise in Python and SQL. I'm passionate about creating actionable insights, and I'm always curious and eager to learn new things.
 </p>
 <br>
 
@@ -27,12 +27,21 @@ Hey there, I'm a self-taught Junior Programmer with expertise in JavaScript, CSS
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+
+<a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+
+<a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=tableau&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tableau.svg'> </a>
+
+<a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=powerbi&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/powerbi.svg'> </a>
+
 <a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+
 <a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+
 <a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+
 <a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/https://github.com/NilArj?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href = 'https://www.github.com/https://github.com/NilArj'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"/></a>
+
 <br>
 
 
