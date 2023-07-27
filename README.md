@@ -17,7 +17,7 @@ Hey there, I'm a self-taught Junior Data Analyst with expertise in Python and SQ
 <br>
 <h2> About Me </h2>
   
-  - 🔭 I’m currently working on growing my skils and stay up-to-date with the latest trends and best practices in the industry.
+  - 🔭 Embarking on a journey of learning calculus and probability, alongside consistent skill-building exercises, and staying in sync with the industry's ever-evolving landscape!.
 
 - 👯 I'm open to collaborating on any project that aligns with my interests and allows me to apply my skills.
 
