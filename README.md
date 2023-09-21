@@ -48,7 +48,7 @@ Hey there, I'm a self-taught Junior Data Analyst with expertise in Python and SQ
 
 
 <h2> Stuff I worked on  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/NilArj/Projects-overview/blob/main/README.md">Projects summary table
+<a href="https://github.com/NilArj/Projects-overview">Projects summary table
 </a>
 <br>
 
