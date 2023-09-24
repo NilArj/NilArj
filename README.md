@@ -7,7 +7,7 @@
 
 
 <p align='rigth'>
-Hey there, I'm a self-taught Junior Data Analyst with expertise in Python and SQL. I'm passionate about creating actionable insights, and I'm always curious and eager to learn new things.
+Hey there, I'm a Data Analyst with expertise in Python and SQL. I'm passionate about creating actionable insights, and I'm always curious and eager to learn new things.
 </p>
 <br>
 
