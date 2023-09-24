@@ -6,13 +6,13 @@
 <br>
 
 
-<p align='center'>
+<p align='rigth'>
 Hey there, I'm a self-taught Junior Data Analyst with expertise in Python and SQL. I'm passionate about creating actionable insights, and I'm always curious and eager to learn new things.
 </p>
 <br>
 
 
-<div size='20px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px' align='rigth'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br>
 <h2> About Me </h2>
