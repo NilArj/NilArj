@@ -20,6 +20,8 @@ Hey there, I'm a Data Analyst with expertise in Python and SQL. I'm passionate a
   - 🔭 Embarking on a journey of learning machine learning, alongside consistent skill-building exercises, and staying in sync with the industry's ever-evolving landscape!.
 
 - 👯 I'm open to collaborating on any project that aligns with my interests and allows me to apply my skills.
+  
+- 🔜 Looking respectfully and with flirty eyes to snowflake and cloud services.
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source...
 <br>
