@@ -46,6 +46,7 @@ Hey there, I'm a Data Analyst with expertise in Python and SQL. I'm passionate a
 <a href = 'https://www.linkedin.com/in/nilvia-a-02309720a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/NilArj_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://github.com/NilArj'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://public.tableau.com/app/profile/nilvia.arjona/vizzes'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/></a>
 <br>
 
 
